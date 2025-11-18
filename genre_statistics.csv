@@ -1,0 +1,21 @@
+genre,count,avg_rating,std_rating
+Film-Noir,870,3.92,0.887
+War,4859,3.808,0.979
+Documentary,1219,3.798,0.82
+Crime,16681,3.658,0.995
+Drama,41928,3.656,0.979
+Mystery,7674,3.632,1.006
+Animation,6988,3.63,0.97
+IMAX,4145,3.618,0.988
+Western,1930,3.584,1.012
+Musical,4138,3.564,0.989
+Adventure,24161,3.509,1.029
+Romance,18124,3.507,1.023
+Thriller,26452,3.494,1.025
+Fantasy,11834,3.491,1.039
+(no genres listed),47,3.489,1.218
+Sci-Fi,17243,3.456,1.071
+Action,30635,3.448,1.051
+Children,9208,3.413,1.056
+Comedy,39053,3.385,1.067
+Horror,7291,3.258,1.143

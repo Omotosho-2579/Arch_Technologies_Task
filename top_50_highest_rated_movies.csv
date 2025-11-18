@@ -1,0 +1,51 @@
+movieId,rating_count,avg_rating,title,genres
+318,317,4.43,"Shawshank Redemption, The (1994)",Crime|Drama
+858,192,4.29,"Godfather, The (1972)",Crime|Drama
+2959,218,4.27,Fight Club (1999),Action|Crime|Drama|Thriller
+1276,57,4.27,Cool Hand Luke (1967),Drama
+750,97,4.27,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War
+904,84,4.26,Rear Window (1954),Mystery|Thriller
+1221,129,4.26,"Godfather: Part II, The (1974)",Crime|Drama
+48516,107,4.25,"Departed, The (2006)",Crime|Drama|Thriller
+1213,126,4.25,Goodfellas (1990),Crime|Drama
+912,100,4.24,Casablanca (1942),Drama|Romance
+58559,149,4.24,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+50,204,4.24,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+1197,142,4.23,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+260,251,4.23,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+527,220,4.22,Schindler's List (1993),Drama|War
+1208,107,4.22,Apocalypse Now (1979),Action|Drama|War
+2329,129,4.22,American History X (1998),Crime|Drama
+1196,211,4.22,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+1252,59,4.21,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+1198,200,4.21,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+1193,133,4.2,One Flew Over the Cuckoo's Nest (1975),Drama
+1089,131,4.2,Reservoir Dogs (1992),Crime|Mystery|Thriller
+296,307,4.2,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+2571,278,4.19,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+1225,76,4.18,Amadeus (1984),Drama
+908,57,4.18,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller
+4973,120,4.18,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+1199,59,4.18,Brazil (1985),Fantasy|Sci-Fi
+356,329,4.16,Forrest Gump (1994),Comedy|Drama|Romance|War
+1136,136,4.16,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+593,279,4.16,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+7361,131,4.16,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+4011,93,4.16,Snatch (2000),Comedy|Crime|Thriller
+5618,87,4.16,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy
+1203,57,4.15,12 Angry Men (1957),Drama
+3147,111,4.15,"Green Mile, The (1999)",Crime|Drama
+2324,88,4.15,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War
+6016,75,4.15,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller
+2028,188,4.15,Saving Private Ryan (1998),Action|Drama|War
+1201,72,4.15,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Action|Adventure|Western
+1210,196,4.14,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+68157,88,4.14,Inglourious Basterds (2009),Action|Drama|War
+4226,159,4.12,Memento (2000),Mystery|Thriller
+1207,58,4.12,To Kill a Mockingbird (1962),Drama
+7153,185,4.12,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+608,181,4.12,Fargo (1996),Comedy|Crime|Drama|Thriller
+78499,55,4.11,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX
+4993,198,4.11,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+111,104,4.11,Taxi Driver (1976),Crime|Drama|Thriller
+541,124,4.1,Blade Runner (1982),Action|Sci-Fi|Thriller
