@@ -1,9 +1,5 @@
  🎬 Movie Rating Prediction System
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
-
 A comprehensive machine learning project that predicts user movie ratings using collaborative filtering and ensemble methods. Built as part of my internship at Arch Technologies.
 
  📋 Table of Contents
@@ -259,8 +255,7 @@ Project Link: [github.com/Omotosho-2579/Arch_Technologies_Task](https://github.c
 2. Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8), 30-37.
 3. Ricci, F., Rokach, L., & Shapira, B. (2015). Recommender systems handbook. Springer.
 
----
 
-<p align="center">
+
+
   Made with ❤️ and ☕ during my internship at Arch Technologies
-</p>
